@@ -1,5 +1,6 @@
 ### Django ###
 /myvenv
+/mytodo/settings.py
 *.log
 *.pot
 *.pyc
